@@ -90,5 +90,5 @@ Testing was done with the following tools:
 
 This project serves as a reminder of the importance of correct security configurations in cloud environments, particularly when dealing with access to sensitive instances like EC2.
 
-![AWS](https://github.com/orjimiracle/Cybersecurity/blob/99076b8c084084a7828c7185f8cd73e733045a64/images/users.jpg)
+![AWS IAM Users](https://github.com/orjimiracle/Cybersecurity/blob/99076b8c084084a7828c7185f8cd73e733045a64/images/users.jpg)(Aws)
 
