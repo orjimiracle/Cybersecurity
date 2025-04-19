@@ -48,6 +48,4 @@
 **Conclusion**  
  The scan on "testphp.vulnweb.com" showed that only port 80 is open, which is hosting an HTTP web service. This suggests a minimal and controlled configuration, suitable for cybersecurity practice. No other services were exposed. This type of scan helps beginners understand how to identify active services on a system and assess basic security postures.
 
-![][image1]
-https://github.com/orjimiracle/Cybersecurity/blob/e69484b51da253719b48c3148db96748476596bf/images/Nmap%20vulnerability%20scan.jpg?raw=true
-[image1]: 
+![Nmap Scanning](https://github.com/orjimiracle/Cybersecurity/blob/e69484b51da253719b48c3148db96748476596bf/images/Nmap%20vulnerability%20scan.jpg?raw=true)
