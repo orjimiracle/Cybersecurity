@@ -88,7 +88,7 @@ Testing was done with the following tools:
 
 * **Access Methods:** Understanding different tools for SSH access (like PuTTY, Command Prompt, and Git Bash) and their respective configurations (private key handling) is key to troubleshooting and verifying access.
 
-This project serves as a reminder of the importance of correct security configurations in cloud environments, particularly when dealing with access to sensitive instances like EC2.
+This project serves as a reminder of the importance of correct security configurations in cloud environments, particularly when dealing with access to sensitive instances like 
 
-![AWS IAM Users](https://github.com/orjimiracle/Cybersecurity/blob/99076b8c084084a7828c7185f8cd73e733045a64/images/users.jpg)(Aws)
+![AWS IAM Users](https://github.com/orjimiracle/Cybersecurity/blob/99076b8c084084a7828c7185f8cd73e733045a64/images/users.jpg)(Image showing AWS Users)
 
