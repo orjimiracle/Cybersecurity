@@ -14,5 +14,3 @@ The journey has just begun, and the cloud is our starting point! I look forward 
 
 Let’s build a safer future, starting now!
 
-<https://www.linkedin.com/posts/ekeoma-orji-729160131_hi-everyone-my-name-is-orji-ekeoma-miracle-activity-7278912879389528064-Zg2A?utm_source=share&utm_medium=member_android>
-
